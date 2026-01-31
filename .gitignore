@@ -1,0 +1,14 @@
+
+.env
+agents
+*.sql
+
+uploads/*
+!uploads/1769619407_independencia.jpg
+!uploads/1769619303_apolo 11.jpg
+!uploads/1769619249_Caida del muro de berlin.webp
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
